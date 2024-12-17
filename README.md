@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-jus
-- 👀 I’m interested in web development
+- 👀 Software Engineer
 - 🌱 I’m currently learning java,Spring
 - 💞️ I’m looking to collaborate on creating web apps
 - 📫 How to reach me on LinkedIn,Instagram,Twitter
